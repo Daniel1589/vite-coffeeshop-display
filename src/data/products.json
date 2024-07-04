@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "Blend 01",
+      "price": "175.00₪",
+      "src": "src/images/blend01.jpg"
+    },
+    {
+      "name": "Blend 02",
+      "price": "150.00₪",
+      "src": "src/images/blend02.jpg"
+    },
+    {
+      "name": "Blend 03",
+      "price": "120.00₪",
+      "src": "src/images/blend03.jpg"
+    },
+    {
+      "name": "Blend 04",
+      "price": "205.00₪",
+      "src": "src/images/blend04.jpg"
+    },
+    {
+      "name": "Blend 05",
+      "price": "160.00₪",
+      "src": "src/images/blend05.jpg"
+    },
+    {
+      "name": "Blend 06",
+      "price": "150.00₪",
+      "src": "src/images/blend06.jpg"
+    }
+  ]
+}
