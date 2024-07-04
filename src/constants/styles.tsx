@@ -47,3 +47,20 @@ export const ProductListTheme = {
   header: "text-[20px] font-normal",
   price: "text-[17px]",
 };
+export const ProductCarouselTheme = {
+  body: "py-20 bg-[#f2f1ed]",
+  mainContainer: "flex bg-[#f2f1ed] relative justify-center",
+  productContainer: "py-4 px-12 bg-[#f2f1ed]",
+  cards: "flex w-[1750px] gap-[20px]",
+  mapContainer: "w-full",
+  productImg: "w-full h-102 object-cover",
+  header: "text-2xl ",
+  price: "text-gray-600",
+  arrowBack:
+    "absolute top-[250px] left-2 text-black size-6 hover:cursor-pointer",
+  arrowForward:
+    "absolute top-[250px] right-2 text-black size-6 hover:cursor-pointer",
+  buttonContainer: "flex justify-center",
+  button:
+    "border-[1px] border-black text-center text-[35px] font-normal bottom-[75px] right-[100px] py-[25px] px-[70px] bg-[#fff7d8]",
+};

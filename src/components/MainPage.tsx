@@ -1,6 +1,6 @@
 import { TopSection } from "./TopSection";
 import { MainSection } from "./MainSection";
-import ProductCarousel from "./ProductCarousel";
+import { ProductCarousel } from "./ProductCarousel";
 export const MainPage = () => {
   return (
     <div>
