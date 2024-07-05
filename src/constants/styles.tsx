@@ -64,3 +64,23 @@ export const ProductCarouselTheme = {
   button:
     "border-[1px] border-black text-center text-[35px] font-normal bottom-[75px] right-[100px] py-[25px] px-[70px] bg-[#fff7d8]",
 };
+export const FooterTheme = {
+  mainContainer: "bg-[#d2e1ee] p-[320px] relative",
+  bottomInfo:
+    "absolute left-1/2 bottom-8 transform translate-x-[-50%] translate-y-[50%]",
+  ul1: "flex gap-[45px]",
+  copyright: "flex justify-center items-center",
+  icon: "w-[10px] h-[10px]",
+  info1: "absolute left-[250px] top-[75px] text-[17px]",
+  header: "font-semibold text-[25px]",
+  ul2: "list-none pt-8",
+  ul3: "list-none pt-8 leading-[1.8]",
+  ul4: "list-none pt-8 leading-[1.8]",
+  info2: "absolute right-[100px] top-[100px]",
+  ul5: "pt-6",
+  subscribebox: "pt-[150px]",
+  header2: "pb-2",
+  textArea:
+    "bg-[#d2e1ee] border-2 border-black py-[12px] pr-[150px] pl-[15px] text-slate-600",
+  button: "bg-black text-white py-[14px] px-6",
+};
